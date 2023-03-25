@@ -1,4 +1,4 @@
 # fakedonalds.nvim
 A mcdonald's inspired theme
 
-![fakedonalds](https://user-images.githubusercontent.com/33953936/227702464-7899eca0-ec4c-4e66-b931-620d27131024.png)
+![fakedonalds](https://user-images.githubusercontent.com/292349/227724160-b14e37fc-acaa-49d2-9e35-3a21e39c1567.png)
